@@ -1,0 +1,451 @@
+{
+    "commands": [
+        {
+            "question":"hello!",
+            "type":"voice",
+            "response":"hey"
+        },
+        {
+            "question":"what are you?",
+            "type":"voice",
+            "response":"Im saarathi,voice assistance"
+        },
+        {
+            "question": "Play some upbeat music.",
+            "type": "music",
+            "response": "Certainly, I'll start playing some upbeat music for you."
+        },
+        {
+            "question": "What's the weather like today?",
+            "type": "weather",
+            "response": "Let me check the weather forecast for your current location. One moment, please"
+        },
+        {
+            "question": "Read me the latest news headlines.",
+            "type": "voice",
+            "response": "I'll fetch the latest news headlines for you. Please give me a moment."
+        },
+        {
+            "question": "Tell me a joke to lighten the mood.",
+            "type": "voice",
+            "response": "Sure, here's a joke: Why did the scarecrow win an award? Because he was outstanding in his field!"
+        },
+        {
+            "question": "Play my 'Driving Classics' playlist.",
+            "type": "music",
+            "response": "Starting your 'Driving Classics' playlist now."
+        },
+        {
+            "question": "Read me today's top headlines from the New York Times.",
+            "type": "voice",
+            "response": "Fetching today's top headlines from the New York Times. Please give me a moment."
+        }, 
+        {
+            "question": "Read me a famous car-related quote.",
+            "type": "voice",
+            "response": "Certainly, here's a famous car quote: 'A dream without ambition is like a car without gas... you're not going anywhere.' - Sean Hampton"
+        },  
+        {
+            "question": "What's the latest in car technology?",
+            "type": "voice",
+            "response": "The latest in car technology includes advancements in electric vehicles, autonomous driving, and connectivity. It's an exciting time for the automotive industry!"
+        },
+        {
+            "question": "Share an interesting fact about traffic patterns.",
+            "type": "voice",
+            "response": "Did you know that in the Netherlands, they have traffic lights for bicycles due to the large number of cyclists in the country?"
+        },
+        {
+            "question": "Share some trivia about car brands.",
+            "type": "voice",
+            "response": "Sure, here's some car brand trivia: Lamborghini was founded because Ferruccio Lamborghini, the founder, was unhappy with a Ferrari he owned."
+        },
+        {
+            "question": "What's the most fuel-efficient car on the market right now?",
+            "type": "voice",
+            "response": "The most fuel-efficient car currently on the market is the 'Car Model X,' with an impressive combined MPG rating of 50. It's a great choice for eco-conscious drivers."
+        },
+        {
+            "question": "Tell me a fun fact about driving in different countries.",
+            "type": "voice",
+            "response": "In Sweden, it's a legal requirement to have your headlights on at all times, even during the day. This rule helps improve visibility and safety on the road."
+        },
+        {
+            "question": "What's the most iconic car chase scene in movie history?",
+            "type": "voice",
+            "response": "The car chase scene in the movie 'Bullitt' (1968), featuring Steve McQueen, is often considered one of the most iconic in movie history."
+        },
+        {
+            "question": "Tell me a road trip story or adventure anecdote.",
+            "type": "voice",
+            "response": "Sure, here's an adventurous road trip story: A group of friends embarked on a cross-country journey and stumbled upon a hidden waterfall in the wilderness. It became the highlight of their trip."
+        },
+        {
+            "question": "Share interesting facts about famous car models.",
+            "type": "voice",
+            "response": "Here's an interesting fact: The Ford Mustang, an iconic car, made its debut at the New York World's Fair in 1964 and became an instant classic."
+        },
+        {
+            "question": "Recommend a book for listening to while driving.",
+            "type": "voice",
+            "response": "I recommend 'On the Road' by Jack Kerouac. It's a classic road trip novel that's perfect for long drives."
+        },
+        {
+            "question": "Share tips for staying comfortable during a long car journey.",
+            "type": "voice",
+            "response": "Staying comfortable during a long car journey is essential. Consider using lumbar support, taking short breaks to stretch, and keeping water and healthy snacks on hand."
+        },
+        {
+            "question": "Tell me about the benefits of using cruise control during long drives.",
+            "type": "voice",
+            "response": "Using cruise control on long drives can help reduce fatigue, improve fuel efficiency, and maintain a consistent speed, making your journey smoother and more relaxing."
+        },
+        {
+            "question": "Tell me a travel-related anecdote or a road trip adventure.",
+            "type": "voice",
+            "response": "Certainly! One memorable road trip adventure involved a group of friends who, on a whim, took a detour to explore an abandoned ghost town they stumbled upon. It turned into an unforgettable exploration."
+        },
+        {
+            "question": "Share some car maintenance tips for a long journey.",
+            "type": "voice",
+            "response": "Before embarking on a long journey, check your tire pressure, change the oil, inspect the brakes, and make sure all lights are working. Regular maintenance ensures a trouble-free trip."
+        },
+        {
+            "question": "Share a famous road trip quote or saying.",
+            "type": "voice",
+            "response": "Here's a classic road trip quote: 'Life is an adventure. Live it up on the open road.'"
+        },
+        {
+            "question": "Share a surprising fact about famous scenic drives around the world.",
+            "type": "voice",
+            "response": "One surprising fact is that the Great Ocean Road in Australia is made of more than 2.5 million limestone blocks, each weighing up to 5 tons."
+        },
+        {
+            "question": "Share some tips for capturing stunning photos during road trips.",
+            "type": "voice",
+            "response": "To capture great road trip photos, use natural lighting, vary your perspectives, and take candid shots of your journey. Don't forget to document unique roadside sights!"
+        },
+        {
+            "question": "Share some essential safety tips for night driving.",
+            "type": "voice",
+            "response": "When driving at night, ensure your headlights are clean and properly adjusted, reduce speed, and watch for wildlife. Also, take regular breaks to stay alert."
+        },
+        {
+            "question": "Recommend a classic travel movie for a movie night on the road.",
+            "type": "voice",
+            "response": "I recommend 'Into the Wild,' a thought-provoking film about adventure and self-discovery, perfect for a movie night during your journey."
+        },
+        {
+            "question": "Tell me about the benefits of carpooling during group road trips.",
+            "type": "voice",
+            "response": "Carpooling during group road trips can save money, reduce environmental impact, and create a more social and enjoyable journey. Plus, it can be an excellent way to share the driving responsibilities."
+        },
+        {
+            "question": "Share a famous quote about the allure of the open road.",
+            "type": "voice",
+            "response": "Here's a classic quote: 'Two roads diverged in a wood, and I—I took the one less traveled by, and that has made all the difference.' - Robert Frost"
+        },
+        {
+            "question": "Recommend a classic travel documentary for a movie night during a road trip.",
+            "type": "voice",
+            "response": "I recommend 'Samsara.' It's a visually stunning documentary that explores human cultures, natural wonders, and the cycle of life. Perfect for a captivating movie night."
+        },
+        {
+            "question": "Share some tips for staying focused and alert during extended road trips.",
+            "type": "voice",
+            "response": "To stay focused and alert during extended road trips, get plenty of rest before starting, take regular breaks to stretch and refresh, and stay hydrated. Engaging conversations with fellow travelers can also help."
+        },
+        {
+            "question": "Tell me about the history of car camping and the allure of open road adventures.",
+            "type": "voice",
+            "response": "Car camping has a rich history dating back to the early 20th century when people began using automobiles for recreational travel. The allure of open road adventures lies in the freedom to explore new places and discover the unexpected."
+        },
+        {
+            "question":"all over the world which is the largest highway",
+            "type":"voice",
+            "response":"The Pan American highway connecting North America to South America in 48,000 kilometres is the longest highway in the world."
+        },
+        {
+            "question":"Which is the oldest highway in the world?",
+            "type":"voice",
+            "response":"The Lake Moeris Quarry Road, in the Faiyum District of Egypt, is the oldest road in the world of which a considerable part of its original pavement is still preserved."
+        },
+        {
+            "question": "Share an interesting fact about famous long-distance road races.",
+            "type": "voice",
+            "response": "One interesting fact is that the Cannonball Run, a famous long-distance road race, got its name from Erwin G,Cannonball,Baker, who made numerous cross-country speed runs in the early 20th century."
+        },
+        {
+            "question": "Share an interesting fact about famous road trip destinations.",
+            "type": "voice",
+            "response": "An interesting fact is that the 'Pacific Coast Highway' in California, known for its stunning coastal views, has been featured in numerous movies and TV shows, making it an iconic road trip destination."
+        },
+        {
+            "question": "Tell me about the most challenging and rewarding road trip you've heard of.",
+            "type": "voice",
+            "response": "One of the most challenging and rewarding road trips is the Pan-American Highway, a journey from Alaska to the tip of South America. It's a test of endurance and offers incredible cultural and natural diversity."
+        },
+        {
+            "question": "Play some classic rock music for the journey.",
+            "type": "voice",
+            "response": "Sure, I've got a classic rock playlist queued up for you. Enjoy the ride!"
+        },
+        {
+            "question": "Tell me a fun car-related trivia fact.",
+            "type": "voice",
+            "response": "Here's one: The world's first speeding ticket was issued in 1902 when a car was caught going 45 miles per hour in a 15 mph zone. Speeding has been around for a while!"
+        },
+        {
+            "question": "Share a road trip joke to lighten the mood.",
+            "type": "voice",
+            "response": "Sure, here's one: Why did the scarecrow become a successful travel blogger? Because he was outstanding in his field!"
+        },
+        {
+            "question": "Tell me a classic 'knock-knock' joke.",
+            "type": "voice",
+            "response": "Knock, knock. Who's there? Boo. Boo who? Don't cry; it's just a joke!"
+        },
+        {
+            "question": "Share a 'dad joke' to lighten the mood.",
+            "type": "voice",
+            "response": "Why don't skeletons fight each other? They don't have the guts!"
+        },
+        {
+            "question": "Tell me a pun that's sure to make me smile.",
+            "type": "voice",
+            "response": "I used to play piano by ear, but now I use my hands."
+        },
+        {
+            "question": "Give me a witty one-liner joke.",
+            "type": "voice",
+            "response": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+        },
+        {
+            "question": "Share a lighthearted joke about technology or gadgets.",
+            "type": "voice",
+            "response": "Why did the smartphone go to therapy? It had too many issues!"
+        },
+        {
+            "question": "Share a light-hearted animal joke.",
+            "type": "voice",
+            "response": "Why don't oysters donate to charity? Because they are shellfish!"
+        },
+        {
+            "question": "Tell me a joke about food.",
+            "type": "voice",
+            "response": "Why did the tomato turn red? Because it saw the salad dressing!"
+        },
+        {
+            "question": "Share a classic 'puns and wordplay' joke.",
+            "type": "voice",
+            "response": "I told my wife she was drawing her eyebrows too high. She looked surprised!"
+        },
+        {
+            "question": "Give me a travel-related joke.",
+            "type": "voice",
+            "response": "Why don't scientists trust atoms? Because they make up everything, even your travel plans!"
+        },
+        {
+            "question": "Share a joke about the weather.",
+            "type": "voice",
+            "response": "Why did the weather report go to school? To get a little brighter!"
+        },
+        {
+            "question": "Tell me a light-hearted joke about books.",
+            "type": "voice",
+            "response": "Why do books never go to therapy? Because they have too many pages to read through their issues!"
+        },
+        {
+            "question": "Share a classic 'two-liner' joke.",
+            "type": "voice",
+            "response": "I'm reading a book on anti-gravity. It's impossible to put down!"
+        },
+        {
+            "question": "Give me a science-related joke.",
+            "type": "voice",
+            "response": "Why are chemists excellent for solving problems? They have all the solutions!"
+        },
+        {
+            "question": "Tell me a gardening joke.",
+            "type": "voice",
+            "response": "What do you call a bee that can't make up its mind? A maybee!"
+        },
+        {
+            "question": "Share a joke about technology or computers.",
+            "type": "voice",
+            "response": "Why did the computer catch a cold? Because it had too many windows open!"
+        },
+        {
+            "question": "Share an interesting fact about famous inventors.",
+            "type": "voice",
+            "response": "Did you know that Thomas Edison, the inventor of the light bulb, was afraid of the dark? It's an ironic but fascinating fact about one of history's most famous inventors."
+        },
+        {
+            "question": "Recommend a mystery novel for a captivating read.",
+            "type": "voice",
+            "response": "I recommend 'Gone Girl' by Gillian Flynn. It's a thrilling mystery that will keep you on the edge of your seat."
+        },
+        {
+            "question": "Share some tips for improving communication skills.",
+            "type": "voice",
+            "response": "To improve your communication skills, practice active listening, maintain eye contact, and be concise. It's also important to ask open-ended questions to encourage meaningful conversations."
+        },
+        {
+            "question": "Tell me about famous quotes on the importance of communication.",
+            "type": "voice",
+            "response": "One famous quote is by George Bernard Shaw: 'The single biggest problem in communication is the illusion that it has taken place.' It emphasizes the need for effective communication."
+        },
+        {
+            "question": "Recommend a board game for a game night with friends.",
+            "type": "voice",
+            "response": "Consider 'Settlers of Catan.' It's a strategic board game that encourages interaction and competition, making it a fantastic choice for a game night with friends."
+        },
+        {
+            "question": "Share an interesting fact about famous historical events.",
+            "type": "voice",
+            "response": "During the California Gold Rush in the mid-1800s, many prospectors used simple pans to sift through riverbeds for gold. This led to the phrase 'panning for gold,' which is still used today."
+        },
+        {
+            "question": "Recommend a classic novel for a thought-provoking read.",
+            "type": "voice",
+            "response": "I recommend '1984' by George Orwell. It's a dystopian classic that continues to provoke discussions on government, society, and individual freedom."
+        },
+        {
+            "question": "Share some tips for time management and productivity.",
+            "type": "voice",
+            "response": "To improve time management and productivity, consider using the Pomodoro Technique, prioritize tasks, and minimize distractions. Break your work into focused intervals with short breaks in between."
+        },
+        {
+            "question": "Tell me about famous quotes on the importance of history.",
+            "type": "voice",
+            "response": "Winston Churchill once said, 'Those who fail to learn from history are condemned to repeat it.' This quote underscores the significance of studying history to avoid past mistakes."
+        },
+        {
+            "question": "Recommend a classic card game for a family game night.",
+            "type": "voice",
+            "response": "How about 'Uno'? It's a simple yet highly entertaining card game that can be enjoyed by players of all ages during a family game night."
+        },
+        {
+            "question": "Recommend a fuel-efficient car model for commuting.",
+            "type": "voice",
+            "response": "I recommend the Toyota Prius for its excellent fuel efficiency. It's a reliable choice for daily commuting."
+        },
+        {
+            "question": "Tell me about an interesting automotive innovation from the past.",
+            "type": "voice",
+            "response": "One interesting automotive innovation is the introduction of the first rearview mirror by Elmer Berger in 1921. It significantly improved road safety."
+        },
+        {
+            "question": "Recommend a car maintenance schedule for optimal performance.",
+            "type": "voice",
+            "response": "For optimal car performance, follow a regular maintenance schedule. This includes oil changes every 3,000 to 5,000 miles, tire rotations every 6,000 miles, and a comprehensive checkup every 12,000 miles or as recommended by your car's manual."
+        },
+        {
+            "question": "Share tips for preparing a car for a long road trip.",
+            "type": "voice",
+            "response": "Before a long road trip, check your car's tires, brakes, and fluid levels. Pack an emergency kit with essentials, and make sure your navigation systems are up to date for a smooth journey."
+        },
+        {
+            "question": "Tell me about famous car racing events or competitions.",
+            "type": "voice",
+            "response": "Famous car racing events include the Indianapolis 500, the 24 Hours of Le Mans, and the Monaco Grand Prix. These races have a rich history and are known for their exciting and challenging tracks."
+        },
+        {
+            "question": "Recommend a destination for a romantic getaway.",
+            "type": "voice",
+            "response": "I recommend Paris, France. It's known as the 'City of Love' and offers a romantic atmosphere with its iconic landmarks, charming streets, and delectable cuisine."
+        },
+        {
+            "question": "Suggest a family-friendly destination for a fun vacation with kids.",
+            "type": "voice",
+            "response": "Consider Disneyland in Anaheim, California. It's a magical place for kids and adults alike, with a wide range of attractions and entertainment options."
+        },
+        {
+            "question": "Recommend a destination for an adventurous backpacking trip.",
+            "type": "voice",
+            "response": "How about the Inca Trail in Peru? It's a breathtaking trek to Machu Picchu, offering a mix of adventure, history, and stunning natural beauty."
+        },
+        {
+            "question": "Share tips for a budget-friendly trip without compromising on experiences.",
+            "type": "voice",
+            "response": "To have a budget-friendly trip, consider traveling during the off-peak season, staying in hostels or budget accommodations, and using local transportation. Don't forget to explore free or low-cost attractions."
+        },
+        {
+            "question": "Recommend a destination for a cultural immersion experience.",
+            "type": "voice",
+            "response": "Kyoto, Japan, is an excellent choice for cultural immersion. You can explore traditional tea ceremonies, visit historic temples, and experience the beauty of Japanese culture."
+        },
+        {
+            "question": "Tell me a classic 'knock-knock' joke.",
+            "type": "voice",
+            "response": "Knock, knock. Who's there? Olive. Olive who? Olive you, and I miss you!"
+        },
+        {
+            "question": "Share a 'dad joke' to lighten the mood.",
+            "type": "voice",
+            "response": "Why don't scientists trust atoms? Because they make up everything!"
+        },
+        {
+            "question": "Tell me a pun that's sure to make me smile.",
+            "type": "voice",
+            "response": "I used to play piano by ear, but now I use my hands."
+        },
+        {
+            "question": "Give me a witty one-liner joke.",
+            "type": "voice",
+            "response": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+        },
+        {
+            "question": "Share a lighthearted joke about technology or gadgets.",
+            "type": "voice",
+            "response": "Why did the smartphone go to therapy? It had too many issues!"
+        },
+        {
+            "question": "Translate 'hello' into French.",
+            "type":"voice",
+            "response": "The translation of 'hello' into French is 'bonjour'."
+        },
+        {
+            "question": "Give me a fun fact about space.",
+            "type":"voice",
+            "response": "Did you know that a day on Venus is longer than a year on Venus? It rotates very slowly."
+        },
+        {
+            "question":"Which city is known as the Pink City?",
+            "type":"voice",
+            "response":"Jaipur, in the state of Rajasthan, is known as the 'Pink City' and is famous for its historic forts and palaces."
+        },
+        {
+            "question":"Where can I witness the Ganga Aarti on the banks of the Ganges River?",
+            "type":"voice",
+            "response":"You can witness the Ganga Aarti in Varanasi, one of the oldest and holiest cities in India."
+        },
+        {
+            "question":"Which state is known for its vibrant and colorful festivals, especially Dussehra?",
+            "type":"voice",
+            "response":"Mysore, in the state of Karnataka, is known for its vibrant and colorful Dussehra festival."
+        },
+        {
+            "question": "Where can I experience the golden glow of the Golden Temple?",
+            "type":"voice",
+            "response":"The Golden Temple is located in Amritsar, Punjab, and it radiates its golden glow over the sacred pool."
+        },
+        {
+            "question": "Which Indian city is known for its bustling film industry, Bollywood?",
+            "type":"voice",
+            "response":"Mumbai, often called the 'City of Dreams,' is famous for its Bollywood film industry."
+        },
+        {
+            "question": "Where can I explore the artistic heritage and Renaissance history?",
+            "type":"voice",
+            "response": "Florence, Italy, is renowned for its artistic heritage and Renaissance history, with treasures like the Uffizi Gallery."
+        },
+        {
+            "question":"Which temple in Odisha is dedicated to the Sun God and is known for its stunning chariot-shaped architecture?",
+            "type":"voice",
+            "response": "The Konark Sun Temple in Odisha is dedicated to the Sun God and is known for its stunning chariot-shaped architecture."
+        }    
+    ]
+}
+
+
