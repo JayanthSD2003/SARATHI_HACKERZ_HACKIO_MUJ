@@ -49,7 +49,7 @@ time.sleep(2)
 
 while True:
     # Read each frame and flip it, and convert to grayscale
-    ret, frame = video_capture.read()
+    ret, frame = video_capture.read(1000)
     frame = cv2.flip(frame,1)
     gray = cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)
 
